@@ -11,3 +11,10 @@
 // secret and the username of the secret.
 
 // 6. Listen on your predefined port and start the server.
+
+
+//target of this project:
+//1)work with an api
+//2)understand the docs
+//3)use axios
+//4)use express
